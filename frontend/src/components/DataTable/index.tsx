@@ -1,4 +1,4 @@
-export default function DataTable() {
+export function DataTable() {
   return (
     <div className="table-responsive">
       <table className="table table-striped table-sm">
