@@ -12,7 +12,6 @@ export function DonutChart() {
     }
   }
 
-
   return (
     <>
       <Chart 
